@@ -789,6 +789,9 @@ Node Settings
 'border_width'::
 	Window border width.
 
+'border_radius'::
+	Window border radius.
+
 Pointer Bindings
 ----------------
 
